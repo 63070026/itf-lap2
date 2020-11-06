@@ -11,7 +11,7 @@
     <div class="container">
         <div class="row">
             <div class="col-sm-5">
-                <img src="work1.jpg" class="img-fluid" style="hight: 100%; width: 100%">
+                <img src="work1.jpg" class="img-fluid" style="hight: 75%;">
             </div>
             <div class="col-sm-3">
                 <img src="work1.jpg" class="img-fluid rounded" style="height: 50%;"/>
