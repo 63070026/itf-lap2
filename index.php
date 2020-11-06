@@ -14,14 +14,14 @@
                 <img src="creative2.jpg" class="img-fluid" style="hight: 75%;">
             </div>
             <div class="col-sm-3">
-                <img src="work1.jpg" class="img-fluid rounded" />
+                <img src="work1.jpg" class="img-fluid rounded" style="height: 35%;"/>
                 <h1>Rounded</h1>
                 <p>Lorem ipsum dolor sit amet consectetur </p>
                 <img src="work3.jpg" class="img-fluid"/>
             </div>
             <div class="col-sm-4">
                 <img src="staff3.jpg" class="img-fluid " />
-                <img src="creative3.jpg" class="img-fluid"/>
+                <img src="creative3.jpg" class="img-fluid"style="height: 50%;"/>
             </div>
         </div> 
     </div> 
