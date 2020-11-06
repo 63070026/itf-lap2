@@ -21,7 +21,7 @@
             </div>
             <div class="col-sm-4">
                 <img src="staff3.jpg" class="img-fluid " />
-                <img src="creative3.jpg" class="img-fluid"style="height: 50%;"/>
+                <img src="creative3.jpg" class="img-fluid"/>
             </div>
         </div> 
     </div> 
