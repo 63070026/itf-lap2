@@ -11,17 +11,17 @@
     <div class="container">
         <div class="row">
             <div class="col-sm-5">
-                <img src="img/creative/creative2.jpg" class="img-fluid">
+                <img src="creative2.jpg" class="img-fluid">
             </div>
             <div class="col-sm-3">
-                <img src="img/work/work1.jpg" class="img-fluid rounded" />
+                <img src="work1.jpg" class="img-fluid rounded" />
                 <h1>Rounded</h1>
                 <p>Lorem ipsum dolor sit amet consectetur </p>
-                <img src="img/work/work3.jpg" class="img-fluid"/>
+                <img src="work3.jpg" class="img-fluid"/>
             </div>
             <div class="col-sm-4">
-                <img src="img/staffs/staff3.jpg" class="img-fluid " />
-                <img src="img/creative/creative3.jpg" class="img-fluid"/>
+                <img src="staff3.jpg" class="img-fluid " />
+                <img src="creative3.jpg" class="img-fluid"/>
             </div>
         </div> 
     </div> 
